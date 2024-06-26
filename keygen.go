@@ -17,7 +17,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"golang.org/x/crypto/ssh"
+	"github.com/Kasama/golang-x-crypto/ssh"
 )
 
 // KeyType represents a type of SSH key.
